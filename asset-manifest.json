@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/%20//ajiir.github.io/Burger/static/css/main.086a1861.chunk.css",
+    "main.js": "/%20//ajiir.github.io/Burger/static/js/main.9ded48ba.chunk.js",
+    "main.js.map": "/%20//ajiir.github.io/Burger/static/js/main.9ded48ba.chunk.js.map",
+    "runtime-main.js": "/%20//ajiir.github.io/Burger/static/js/runtime-main.ba2bb554.js",
+    "runtime-main.js.map": "/%20//ajiir.github.io/Burger/static/js/runtime-main.ba2bb554.js.map",
+    "static/js/2.09be9cde.chunk.js": "/%20//ajiir.github.io/Burger/static/js/2.09be9cde.chunk.js",
+    "static/js/2.09be9cde.chunk.js.map": "/%20//ajiir.github.io/Burger/static/js/2.09be9cde.chunk.js.map",
+    "index.html": "/%20//ajiir.github.io/Burger/index.html",
+    "precache-manifest.fd1426dd7ca073b5a82b5ee8e0356d02.js": "/%20//ajiir.github.io/Burger/precache-manifest.fd1426dd7ca073b5a82b5ee8e0356d02.js",
+    "service-worker.js": "/%20//ajiir.github.io/Burger/service-worker.js",
+    "static/css/main.086a1861.chunk.css.map": "/%20//ajiir.github.io/Burger/static/css/main.086a1861.chunk.css.map",
+    "static/js/2.09be9cde.chunk.js.LICENSE.txt": "/%20//ajiir.github.io/Burger/static/js/2.09be9cde.chunk.js.LICENSE.txt",
+    "static/media/burger-logo.png": "/%20//ajiir.github.io/Burger/static/media/burger-logo.1ae57197.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba2bb554.js",
+    "static/js/2.09be9cde.chunk.js",
+    "static/css/main.086a1861.chunk.css",
+    "static/js/main.9ded48ba.chunk.js"
+  ]
+}
